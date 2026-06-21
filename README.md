@@ -2,17 +2,13 @@
 
 东南亚大事件持续关注东南亚地区热点新闻、社会事件、网络爆料及热门话题。
 
-官网：
-https://dnynews.com
+官网：[点击进入官网](https://dnynews.com)
 
-国内线路：
-https://dashijian1.com
+国内线路：[点击访问](https://dashijian1.com)
 
-X：
-https://x.com/dnynews26
+X：[官方X账号](https://x.com/dnynews26)
 
-Telegram：
-https://t.me/dnynew2026
+Telegram：[官方频道](https://t.me/dnynew2026)
 
 ## 最新内容
 
