@@ -23,3 +23,10 @@
 - 东南亚热门话题
 
 欢迎收藏本站获取最新资讯。
+## 推荐阅读
+
+- [东南亚大事件](https://dnynews.com/tag/东南亚大事件/)
+- [今日热议](https://dnynews.com/category/jrry/)
+- [明星网红](https://dnynews.com/category/mxwh/)
+- [商业观察](https://dnynews.com/category/syyy/)
+- [投稿爆料](https://dnynews.com/category/tgbl/)
