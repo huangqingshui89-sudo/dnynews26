@@ -28,27 +28,27 @@
 
 ---
 
-## 最新内容更新
+## 推荐阅读
 
-👉 https://github.com/huangqingshui89-sudo/dnynews26/blob/main/2026东南亚热点新闻汇总.md
-
-👉 https://github.com/huangqingshui89-sudo/dnynews26/blob/main/2026东南亚热点新闻观察.md
-
-👉 https://github.com/huangqingshui89-sudo/dnynews26/blob/main/东南亚网络热点汇总.md
-
-👉 https://github.com/huangqingshui89-sudo/dnynews26/blob/main/东南亚社会事件观察.md
-
-👉 https://github.com/huangqingshui89-sudo/dnynews26/blob/main/今日热门爆料事件盘点.md
-
-👉 https://github.com/huangqingshui89-sudo/dnynews26/blob/main/全网热议话题最新合集.md
-
-👉 https://github.com/huangqingshui89-sudo/dnynews26/blob/main/新闻东南亚与热点事件汇聚.md
-
-👉 https://github.com/huangqingshui89-sudo/dnynews26/blob/main/热门吃瓜资讯实时更新.md
-
-👉 https://github.com/huangqingshui89-sudo/dnynews26/blob/main/网络热点与爆料内容观察.md
-
-👉 https://github.com/huangqingshui89-sudo/dnynews26/blob/main/东南亚大事件导航.md
+- [2026东南亚热点新闻汇总](./2026东南亚热点新闻汇总.md)
+- [2026东南亚热点新闻观察](./2026东南亚热点新闻观察.md)
+- [东南亚热点新闻综合汇总](./东南亚热点新闻综合汇总.md)
+- [东南亚社会事件观察](./东南亚社会事件观察.md)
+- [东南亚社会新闻观察](./东南亚社会新闻观察.md)
+- [东南亚突发事件汇总](./东南亚突发事件汇总.md)
+- [东南亚突发事件实时更新](./东南亚突发事件实时更新.md)
+- [东南亚网络热点汇总](./东南亚网络热点汇总.md)
+- [东南亚网络热议合集](./东南亚网络热议合集.md)
+- [今日热门爆料事件盘点](./今日热门爆料事件盘点.md)
+- [全网热议话题最新合集](./全网热议话题最新合集.md)
+- [新闻东南亚与热点事件汇聚](./新闻东南亚与热点事件汇聚.md)
+- [热门吃瓜资讯实时更新](./热门吃瓜资讯实时更新.md)
+- [网络热点与爆料内容观察](./网络热点与爆料内容观察.md)
+- [东南亚娱乐热点与明星动态](./东南亚娱乐热点与明星动态.md)
+- [东南亚大事件导航](./东南亚大事件导航.md)
+- [今日东南亚热点速览](./今日东南亚热点速览.md)
+- [news02](./news02.md)
+- [heiliao-news-01](./heiliao-news-01.md)
 ---
 
 ## 🔥 热门关键词
