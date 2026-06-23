@@ -1,4 +1,8 @@
-# dnynews26 | 东南亚热点事件与爆料资讯平台
+<meta name="google-site-verification" content="J9YPfrPJ8aSzIeTgS4MimP8tgLMK-lyRwSUPRZWb0vM" />
+
+# dnynews26
+
+东南亚热点事件与爆料资讯平台推荐
 
 东南亚热点事件持续更新，覆盖新闻、社会事件、网络爆料、明星网红及热门话题。
 
